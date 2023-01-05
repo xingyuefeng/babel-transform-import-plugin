@@ -1,13 +1,13 @@
 {
   "name": "babel-transform-import-plugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "转换import引用包babel插件",
   "keywords": [
     "babel-plugin"
   ],
   "main": "./lib/index.js",
   "scripts": {
-    "build": "babel src/test.js -d lib"
+    "build": "babel src/index.js -d lib"
   },
   "files": [
     "lib",
