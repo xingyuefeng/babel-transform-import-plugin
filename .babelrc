@@ -1,0 +1,8 @@
+{
+  "plugins": [
+  ["./src/index.js", {
+    "libraryName": "@uiw/react-native",
+    "alias": "@uiw/react-native/lib"
+  }]
+]
+}
