@@ -23,7 +23,7 @@ npm i babel-transform-import-plugin --save-dev
 
 {
   "plugins": [
-  ["./src/index.js", {
+  ["babel-transform-import-plugin", {
     // 要替换的包名
     "libraryName": "@uiw/react-native",
     // 转换的包名
