@@ -1,0 +1,46 @@
+lib
+
+
+.DS_Store
+.cache
+.vscode
+.idea
+.env
+
+
+*.bak
+*.tem
+*.temp
+#.swp
+*.*~
+~*.*
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+
+
+# next.js build output
+.next
+
+# nuxt.js build output
+.nuxt
+
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+lerna-debug.log*
+package-lock.json
